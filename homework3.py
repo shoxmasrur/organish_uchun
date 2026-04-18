@@ -45,6 +45,9 @@ class Customer:
 client1=MenuItem(b,a)
 client1.serve(int(input("miqdorni kiriting: ")))
 
+"""Bahrom aka bularni shunchaki o'rganish uchun yozyapman bilasiz GIt dan 
+foydalanishga qiynalyotgan edim shunga bularni yozyapman"""
+
 
 
 
